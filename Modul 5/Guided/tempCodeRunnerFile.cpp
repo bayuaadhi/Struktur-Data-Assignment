@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    linkedList List; // nama struct disamakan (linkedList)
+    linkedlist List; // nama struct disamakan (linkedList)
     address nodeA = Nil, nodeB = Nil, nodeC = Nil, nodeD = Nil, nodeE = Nil; // semua diinisialisasi Nil
     createList(List);
 

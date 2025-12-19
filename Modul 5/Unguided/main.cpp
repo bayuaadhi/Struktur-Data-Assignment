@@ -21,6 +21,7 @@ int main() {
     P5 = alokasi(9);
     insertFirst(L, P5);
 
+    cout << "=== OUTPUT LIST ===" << endl;
     printInfo(L);
     cout << endl;
 
